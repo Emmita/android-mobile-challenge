@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="21">
+      <module name="Android(Challenge.library.json-placeholder.api" target="21" />
+      <module name="Android(Challenge.library.json-placeholder.api.main" target="21" />
+      <module name="Android(Challenge.library.json-placeholder.api.test" target="21" />
+      <module name="Android(Challenge.library.json-placeholder.impl" target="21" />
+      <module name="Android(Challenge.library.json-placeholder.impl.main" target="21" />
+      <module name="Android(Challenge.library.json-placeholder.impl.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

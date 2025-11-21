@@ -21,4 +21,15 @@ dependencyResolutionManagement {
 
 rootProject.name = "Android(Challenge"
 include(":app")
- 
+include(":library")
+include(":core")
+include(":core:domain")
+include(":library:gallery")
+include(":library:gallery:api")
+include(":library:gallery:impl")
+include(":feature")
+include(":feature:home")
+include(":feature:home:impl")
+include(":core:design-system")
+include(":feature:detail")
+include(":feature:detail:impl")
